@@ -15,7 +15,7 @@ const MainRout = createMaterialTopTabNavigator(
 	{
 		Vertical: VerticalListScreen,
     Horizontal: HorizontalListScreen,
-    Grid: GridListScreen,
+    Grid: GridListScreen
 	},
 )
 
